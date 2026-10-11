@@ -1,2 +1,2 @@
 # Current Projects
-🚎 CTA BUS Tracker
+🚎 Transit Tracker (for CTA)
